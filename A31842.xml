@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties declaration and propositions propounded to his Excellence the Earle of Essex concerning a treaty of peace and a cessation of ames, by both armies : given at our court at Oxford, Decemb. 19, 1642 : also the Earles answer to the said propositions : likewise a true descovery of the practizes of the Lord Shandoice to betray the city of Gloucester to the cavaliers.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31842</idno>
+            <idno type="STC">Wing C2182</idno>
+            <idno type="STC">ESTC R22139</idno>
+            <idno type="EEBO-CITATION">12123952</idno>
+            <idno type="OCLC">ocm 12123952</idno>
+            <idno type="VID">54494</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54494)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E83, no 7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties declaration and propositions propounded to his Excellence the Earle of Essex concerning a treaty of peace and a cessation of ames, by both armies : given at our court at Oxford, Decemb. 19, 1642 : also the Earles answer to the said propositions : likewise a true descovery of the practizes of the Lord Shandoice to betray the city of Gloucester to the cavaliers.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. H. and William Anderton,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>Decemb. 22, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Gloucester (England) --  History.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54494:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <p>His Majeſties DECLARATION AND PROPOSITIONS Propounded to his Excellence the the Earle of ESSEX; Concerning a Treaty of Peace<g ref="char:punc">▪</g> and a Ceſſation of A<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes, by both Armies.</p>
+            <p>Given at Our Court at <hi>Oxford, Decemb.</hi> 19. 1642.</p>
+            <p>Alſo The Earles Anſwer to the ſaid Propoſitions.</p>
+            <p>Likewiſe a True Diſcovery of the prac<g ref="char:EOLhyphen"/>tizes of the Lord <hi>Shandoice,</hi> to betray the City of <hi>Glouceſter,</hi> to the Cavaliers.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Commons Houſe of Parliament, that theſe Particulars be forthwith Printed and publi<g ref="char:EOLhyphen"/>ſhed.</p>
+                        <closer>
+                           <signed>Hen. Elſing, Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Decemb.</hi> 22. Printed for <hi>I. H.</hi> and <hi>William Anderton,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:54494:2"/>
+            <!-- PDF PAGE 32 -->
+            <pb facs="tcp:54494:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 32 -->
+            <head>His Maieſties Declaration and Pro<g ref="char:EOLhyphen"/>poſitions, to his Excellency the Earle OF ESSEX.</head>
+            <opener>
+               <signed>CHARLES REX</signed>
+               <lb/>
+               <salute>
+                  <seg rend="decorInit">T</seg>Ruſty and well-belo<g ref="char:EOLhyphen"/>ved Councellor WEE greet you well,</salute>
+            </opener>
+            <p>Where as of late dayes WEE have conſidered of the preſent diſtracti<g ref="char:EOLhyphen"/>ons of this Land, and out of our ſecond and mature thoughts ariſing out of Our Royall Breaſt, Wee thought meet to declare Our will and pleaſure unto you, that you would forbeare to proceed any further in this de<g ref="char:EOLhyphen"/>ſtructive
+<pb facs="tcp:54494:3"/>
+               <!-- PDF PAGE 33 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:54494:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 33 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:54494:4"/>
+               <!-- PDF PAGE 34 -->VVarre, and, VVe promiſe on the word of a King, to give you a free pardon for all former Acts, and will no more re<g ref="char:EOLhyphen"/>member any former paſſages, even from the firſt begining of this diſſcention be<g ref="char:EOLhyphen"/>twixt Us and Our Parliament, to the end that a further effuſion of blood may be pre<g ref="char:EOLhyphen"/>vented and matters ſettled, whereby the Kingdome may flouriſh as it formerly hath done; We likewiſe deſire that certaine grave ſubſtantiall perſons, may be choſen to reconcile thoſe differences betweene Us, and Our two houſes of Parliament; VVE are likewiſe reſolved to appoint ſome of e<g ref="char:EOLhyphen"/>quall fidellity and underſtanding to con<g ref="char:EOLhyphen"/>ſult with them about the great affaires, and inſupportable preſſures and grievances of this Kingdome, and what they ſhall agree upon VVEE are willing to ratifie, and make good, by conſenting to all their Acts, con<g ref="char:EOLhyphen"/>ſultatons, and determinations, that ſo this civill Warre which hath bred ſo great a diſturbance in this Our Kingdome, may proceed no further, a pacification being
+<pb facs="tcp:54494:4"/>
+               <!-- PDF PAGE 34 -->made on both ſides, to the generall con<g ref="char:EOLhyphen"/>tent of Our Perſon and Poſteritie, and all Our loving Subjects.</p>
+            <p>And Wee doe declare this to be Our earneſt deſire, it being the moſt ready way to procure the Peace and hapineſſe of this Our Kingdome, deſiring that all grudges may be removed, and all matters well or<g ref="char:EOLhyphen"/>dered for the good of the Common-wealth, whereupon will follow a cleere underſtan<g ref="char:EOLhyphen"/>ding between Us and Our People, being combined together in a mutuall League of deareſt affection.</p>
+            <closer>
+               <dateline>Given at Our Court at OXFORD, <date>the nineteenth of <hi>December,</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Earles anſwer to the ſaid propoſitions.</head>
+            <p>MOſt grattious Soveveraigne, J humbly tender my ſervice at your Royall feet, being willing to hazard my Life and for<g ref="char:EOLhyphen"/>tunes in the defence of your Majeſty, where as you have beene pleaſed to declare your reſolution concerning a Treaty of Peace, ſo hath it beene my deſire ever ſince the be<g ref="char:EOLhyphen"/>gining of theſe differences to imbrace the ſame.</p>
+            <p>
+               <pb facs="tcp:54494:5"/>
+               <!-- PDF PAGE 35 -->
+But having ſuch a great truſt repoſed in me &amp; committed to my charge by both Houſes of Parliament, and I cannot con<g ref="char:EOLhyphen"/>ceive but that I am bound in conſcience according to the Law of God, to diſcharge that truſt which is repoſed in me, by your great and Honourable Councell, being for the defence of your Majeſties Perſon, Gods true Religion, the Priviledges of Parliament, the liberty of the Subject, and the good of the Common-wealth, and if it be the plea<g ref="char:EOLhyphen"/>ſure of that great Councell that hath repo<g ref="char:EOLhyphen"/>ſed in me, to take the ſame charge from me againe, and to conferre it upon ſome other honourable Perſon, J ſhall willingly ſur<g ref="char:EOLhyphen"/>render up my Commiſſion, and be ready to hazard my life and fortunes in your Maje<g ref="char:EOLhyphen"/>ſties Service againſt any forraigne Enemy.</p>
+            <closer>
+               <signed>Your Majeſties moſt loy<g ref="char:EOLhyphen"/>all Subject, <hi>ESSSEX.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Happy Newes from the City of <hi>Glouceſter</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">W</seg>Orthy Sir,</salute>
+            </opener>
+            <p>J am bold to preſent you with ſome remarkeable paſ<g ref="char:EOLhyphen"/>ſages, being very ob<g ref="char:EOLhyphen"/>ſervable, which hap<g ref="char:EOLhyphen"/>ened neere <hi>Glouceſter,</hi> on the eighteenth and nineteenth of this inſtant moneth, the Lord <hi>Shandoice,</hi> and divers other Cavaliers, having received information of the proceedings of this our County, and that they had di<g ref="char:EOLhyphen"/>vers friends therein, which would be ready to aſſiſt them, if they made their approach thereunto, whereupon the aforementioned perſons having gathered together a great and mighty ſtrength in other Counties, they ad<g ref="char:EOLhyphen"/>vanced neere to the ſaid City, where they laboured with all the force and ſtrength they could, to poſſeſſe themſelves of the ſaid County, but he was valliantly oppoſed, by the Jnhabitants of the ſaid County, who
+<pb facs="tcp:54494:6"/>
+               <!-- PDF PAGE 36 -->having notice of his comming, ſet th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men in a faire Battalia, and at his firſt ap<g ref="char:EOLhyphen"/>proach they gave them ſuch a deſperate charge, that the Cavaliers ſoone retreate<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but they purſued him very cloſe. by which meanes they tooke him, and cauſed him to deliver up his Commiſſion, and to ſubſcribe under his hand, that he would never by his owne power or procurement of others, diſturbe the Peace of that County, but that he would oppoſe and hinder it to his power, and that he would maintaine the Priviledges of Parliament, the Law and Li<g ref="char:EOLhyphen"/>berty of the Subject, with his life and for<g ref="char:EOLhyphen"/>tune, all which the ſaid Lord promiſed to performe.</p>
+            <closer/>
+            <postscript>
+               <p>Ordered by the Commons Houſe of Parlia<g ref="char:EOLhyphen"/>ment, that theſe Particulars be printed and pub<g ref="char:EOLhyphen"/>liſhed.</p>
+               <closer>
+                  <signed>Hen. Elſing, Cler. Parl.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
